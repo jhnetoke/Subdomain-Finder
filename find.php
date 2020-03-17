@@ -1,7 +1,6 @@
-<?
+<?php
 /*
   Halo bro? liat² ya?
-  WA : 0895320325423
 */
 echo "/*
   Subdomain finder | Simple
